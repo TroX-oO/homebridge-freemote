@@ -62,7 +62,7 @@ If you find any issue or improvements, do not hesitate to send me an email, or o
 I'm doing this in my free time so for my personal use, so it might not work "as is" in your network configuration (I didn't test it somewhere else to be honest).
 
 For the moment, the plugin does not support volume changes. (But the API does)
-I'm searcing for a practical way to change the volume by Siri command.
+I'm searching for a practical way to change the volume by Siri command.
 
 ## Credits
 [https://github.com/JrCs](https://github.com/JrCs) for the setup script
