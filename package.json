@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Michael Denoun"
+  },
+  "dependencies": {
+    "promise": "^7.1.1",
+    "request": "^2.65.0",
+    "request-promise": "^4.1.1"
+  },
+  "description": "Homebridge plug-in for Freebox Remote",
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "freebox"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "Michael",
+      "email": "dmika91@gmail.com"
+    }
+  ],
+  "name": "homebridge-freemote",
+  "version": "1.0.0"
+}
