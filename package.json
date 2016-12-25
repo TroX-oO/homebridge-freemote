@@ -24,6 +24,13 @@
       "email": "dmika91@gmail.com"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TroX-oO/homebridge-freemote.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TroX-oO/homebridge-freemote/issues"
+  },
   "name": "homebridge-freemote",
-  "version": "1.0.0"
+  "version": "1.0.7"
 }

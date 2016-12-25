@@ -37,7 +37,7 @@ In homebridge's `config.json` you need to specify an accessory for homebridge-fr
     "token": "[AppToken]"
   }],
 ```
-The following parameters modify homebridge-hue's behaviour:
+The following parameters modify homebridge-freemote's behaviour:
 
 - `freebox_ip`: The IP of your freebox. By default, on your local network, the Freebox is accessible through `http://mafreebox.free.fr/`
 - `remote_code`:The remote code you'll find under Settings in the Freebox panel
