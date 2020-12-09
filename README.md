@@ -31,7 +31,7 @@ In homebridge's `config.json` you need to specify an accessory for homebridge-fr
  "accessories": [{
     "accessory": "Freemote",
     "name": "TV",
-    "freebox_ip": "http://mafreebox.free.fr/",
+    "freebox_ip": "http://mafreebox.freebox.fr/",
     "remote_code": "12345678",
     "appid": "[AppId]", 
     "token": "[AppToken]"
